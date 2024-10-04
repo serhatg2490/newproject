@@ -1,2 +1,3 @@
 This is the first file in my local Git repo!
 This line is for demonstrating commit skipping stage phase.
+This line is added by serhat and is required for branch serhat-addtext.
