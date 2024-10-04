@@ -1,1 +1,2 @@
 This is the first file in my local Git repo!
+This line is for demonstrating commit skipping stage phase.
