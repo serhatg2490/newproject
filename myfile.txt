@@ -1,2 +1,3 @@
 This is the first file in my local Git repo!
 This line is for demonstrating commit skipping stage phase.
+Ali has added this line through ali-fixerror branch to fix some error
