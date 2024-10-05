@@ -3,3 +3,4 @@ This line is for demonstrating commit skipping stage phase.
 This line is added by serhat and is required for branch serhat-addtext.
 Ali has added this line through ali-fixerror branch to fix some error
 This line is to demonstrate adding local changes and pushing to GitHub
+This line is to show remotely create branch and commit
