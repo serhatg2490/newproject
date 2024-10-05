@@ -4,3 +4,5 @@ This line is added by serhat and is required for branch serhat-addtext.
 Ali has added this line through ali-fixerror branch to fix some error
 This line is to demonstrate adding local changes and pushing to GitHub
 This line is to show remotely create branch and commit
+This is the first commit line to show how to drop multiple commits into single using soft reset
+This is the second commit line to show how to drop multiple commits into single using soft reset
