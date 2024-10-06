@@ -7,3 +7,4 @@ This line is to show remotely create branch and commit
 This is the first commit line to show how to drop multiple commits into single using soft reset
 This is the second commit line to show how to drop multiple commits into single using soft reset
 This is the first line to show how to rebase locally on ahead remote master branch
+This is the second line to show how to rebase locally on ahead remote master branch
