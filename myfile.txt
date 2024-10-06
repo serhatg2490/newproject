@@ -8,3 +8,4 @@ This is the first commit line to show how to drop multiple commits into single u
 This is the second commit line to show how to drop multiple commits into single using soft reset
 This is the first line to show how to rebase locally on ahead remote master branch
 This is the second line to show how to rebase locally on ahead remote master branch
+This line is to show fixing commit message using git commit --amend
